@@ -36,7 +36,7 @@ const Reports: React.FC = () => {
       id: 'annual',
       name: 'Annual ESG Report',
       description: 'Complete annual environmental, social, and governance report',
-      lastGenerated: '2023-12-31',
+      lastGenerated: '2024-12-31',
       size: '12.3 MB',
       format: 'PDF',
     },
@@ -51,10 +51,10 @@ const Reports: React.FC = () => {
   ];
 
   const recentReports = [
-    { name: 'December 2023 Carbon Report', date: '2024-01-05', status: 'Ready' },
-    { name: 'Q4 2023 Sustainability Report', date: '2024-01-02', status: 'Ready' },
-    { name: 'November 2023 Carbon Report', date: '2023-12-05', status: 'Ready' },
-    { name: 'Q3 2023 Sustainability Report', date: '2023-10-02', status: 'Ready' },
+    { name: 'May 2025 Carbon Report', date: '2025-05-05', status: 'Ready' },
+    { name: 'Q4 2025 Sustainability Report', date: '2025-05-12', status: 'Ready' },
+    { name: 'April 2025 Carbon Report', date: '2025-04-04', status: 'Ready' },
+    { name: 'Q3 2025 Sustainability Report', date: '2025-04-10', status: 'Ready' },
   ];
 
   const handleDownloadReport = (reportId: string) => {
