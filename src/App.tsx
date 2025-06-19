@@ -92,8 +92,8 @@ function App() {
                   </p>
                   <div className="text-sm text-gray-400 space-y-1">
                     <p>CarbonTrack Solutions Ltd.</p>
-                    <p>123 Sustainability Street, Green City, GC 12345</p>
-                    <p>Phone: +1 (555) 123-4567</p>
+                    <p>123 Panchsheel Appartments, Green City, Greater Noida 110099</p>
+                    <p>Phone: +91 1234567890</p>
                     <p>Email: info@carbontrack.com</p>
                   </div>
                 </div>
@@ -153,7 +153,7 @@ function App() {
                 </div>
               </div>
               <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center text-center text-gray-400">
-                <p>&copy; 2024 CarbonTrack Solutions Ltd. All rights reserved.</p>
+                <p>&copy; 2025 CarbonTrack Solutions Ltd. All rights reserved.</p>
                 <div className="mt-4 md:mt-0 flex space-x-6 text-sm">
                   <span>ISO 14001 Certified</span>
                   <span>GDPR Compliant</span>
